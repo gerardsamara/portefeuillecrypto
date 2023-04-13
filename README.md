@@ -4,7 +4,7 @@
 
 ## 2. Staking
 
-## Mining
+## 3. Mining
 
 | Type mining | Crypto | Serveur | Consommation Watts | Rentabilité | Commentaire 
 :---:|:---:|:---:|:---: | :---: | :---:
